@@ -1,2 +1,3 @@
-# restaurant-website-sakana
+# sushi-restaurant-website
+
 Designing and developing a restaurant website
